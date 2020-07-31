@@ -1,19 +1,19 @@
 :root {
---color-readtheme-a-primary: rgba(204,157,57,1);
---color-readtheme-a-background: rgba(250,247,235,1);
---color-readtheme-a-surface: rgba(255,253,247,1);
---color-readtheme-b-primary: rgba(80,153,95,1);
---color-readtheme-b-background: rgba(216,240,221,1);
---color-readtheme-b-surface: rgba(235,250,238,1);
---color-readtheme-c-primary: rgba(143,142,137,1);
---color-readtheme-c-background: rgba(31,31,30,1);
---color-readtheme-c-surface: rgba(51,51,50,1);
---color-qqvip-yellow: rgba(249,174,8,1);
---color-qqvip-lightyellow: rgba(255,242,204,1);
---color-qqvip-red: rgba(232,31,31,1);
---color-qqvip-darkred: rgba(183,32,37,1);
---color-qqvip-black: rgba(0,0,0,1);
---color-qqvip-white: rgba(255,255,255,1);
---color-qqvip-gray: rgba(173,173,173,1);
---color-qqvip-lightgray: rgba(216,216,216,1);
+	--readtheme-a-primary: rgba(204, 157, 57, 1);
+	--readtheme-a-background: rgba(250, 247, 235, 1);
+	--readtheme-a-surface: rgba(255, 253, 247, 1);
+	--readtheme-b-primary: rgba(80, 153, 95, 1);
+	--readtheme-b-background: rgba(216, 240, 221, 1);
+	--readtheme-b-surface: rgba(235, 250, 238, 1);
+	--readtheme-c-primary: rgba(143, 142, 137, 1);
+	--readtheme-c-background: rgba(31, 31, 30, 1);
+	--readtheme-c-surface: rgba(51, 51, 50, 1);
+	--qqvip-yellow: rgba(249, 174, 8, 1);
+	--qqvip-lightyellow: rgba(255, 242, 204, 1);
+	--qqvip-red: rgba(232, 31, 31, 1);
+	--qqvip-darkred: rgba(183, 32, 37, 1);
+	--qqvip-black: rgba(0, 0, 0, 1);
+	--qqvip-white: rgba(255, 255, 255, 1);
+	--qqvip-gray: rgba(173, 173, 173, 1);
+	--qqvip-lightgray: rgba(216, 216, 216, 1);
 }
