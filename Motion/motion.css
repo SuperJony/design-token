@@ -1,0 +1,17 @@
+/* durations */
+:root {
+	--instant: 0ms;
+	--xx-fast: 50ms;
+	--x-fast: 100ms;
+	--fast: 200ms;
+	--normal: 250ms;
+	--slow: 300ms;
+	--x-slow: 400ms;
+	--xx-slow: 500ms;
+}
+/* ease curves*/
+:root {
+	--accelerated-easing: cubic-bezier(0.4, 0, 1, 1);
+	--decelerated-easing: cubic-bezier(0, 0, 0.4, 1);
+	--standard-easing: cubic-bezier(0.4, 0, 0.2, 1);
+}
