@@ -2,6 +2,7 @@
 :root {
 	--primary-font: PingFang SC Regular;
 	--secondary-font: PingFang SC Medium;
+	--tertiary-font: PingFang SC Bold;
 }
 /* text styles*/
 .label-large {
@@ -71,31 +72,31 @@
 	letter-spacing: 0px;
 }
 .heading-x-large {
-	font-family: var(--secondary-font);
+	font-family: var(--tertiary-font);
 	font-size: 32px;
 	line-height: 40px;
 	letter-spacing: 0px;
 }
 .heading-large {
-	font-family: var(--secondary-font);
+	font-family: var(--tertiary-font);
 	font-size: 28px;
 	line-height: 36px;
 	letter-spacing: 0px;
 }
 .heading-medium {
-	font-family: var(--secondary-font);
+	font-family: var(--tertiary-font);
 	font-size: 24px;
 	line-height: 32px;
 	letter-spacing: 0px;
 }
 .heading-small {
-	font-family: var(--secondary-font);
+	font-family: var(--tertiary-font);
 	font-size: 20px;
 	line-height: 28px;
 	letter-spacing: 0px;
 }
 .heading-x-small {
-	font-family: var(--secondary-font);
+	font-family: var(--tertiary-font);
 	font-size: 16px;
 	line-height: 20px;
 	letter-spacing: 0px;
