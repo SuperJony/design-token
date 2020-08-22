@@ -23,13 +23,13 @@
 	--surface-inverse-overlay-light: rgba(255, 255, 255, 0.12);
 	--surface-inverse-overlay-dark: rgba(255, 255, 255, 0.24);
 	--on-background-primary: rgba(20, 20, 20, 1);
-	--on-background-secondary: rgba(20, 20, 20, 0.6);
+	--on-background-secondary: rgba(20, 20, 20, 0.48);
 	--on-background-inverse-primary: rgba(255, 255, 255, 1);
-	--on-background-inverse-secondary: rgba(255, 255, 255, 0.6);
+	--on-background-inverse-secondary: rgba(255, 255, 255, 0.48);
 	--on-surface-primary: rgba(20, 20, 20, 1);
-	--on-surface-secondary: rgba(20, 20, 20, 0.6);
+	--on-surface-secondary: rgba(20, 20, 20, 0.48);
 	--on-surface-disabled: rgba(20, 20, 20, 0.24);
-	--on-surface-inverse-secondary: rgba(255, 255, 255, 0.6);
+	--on-surface-inverse-secondary: rgba(255, 255, 255, 0.48);
 	--on-surface-inverse-primary: rgba(255, 255, 255, 1);
 	--on-surface-inverse-disabled: rgba(255, 255, 255, 0.24);
 	--border-transparent: rgba(20, 20, 20, 0.08);
