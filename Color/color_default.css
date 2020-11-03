@@ -26,8 +26,10 @@
 	--surface-inverse-disabled: rgba(20, 20, 20, 1);
 	--surface-overlay-light: rgba(20, 20, 20, 0.08);
 	--surface-overlay-dark: rgba(20, 20, 20, 0.24);
+	--surface-overlay-darkest: rgba(20, 20, 20, 0.88);
 	--surface-inverse-overlay-light: rgba(255, 255, 255, 0.12);
 	--surface-inverse-overlay-dark: rgba(255, 255, 255, 0.24);
+	--surface-inverse-overlay-darkest: rgba(255, 255, 255, 0.88);
 	--on-background-primary: rgba(20, 20, 20, 1);
 	--on-background-secondary: rgba(20, 20, 20, 0.48);
 	--on-background-inverse-primary: rgba(255, 255, 255, 1);
@@ -41,5 +43,6 @@
 	--border-transparent: rgba(20, 20, 20, 0.08);
 	--border-inverse-transparent: rgba(255, 255, 255, 0.12);
 	--border-opaque: rgba(226, 226, 226, 1);
-	--scrim-base: rgba(20, 20, 20, 0.5);
+	--scrim-base: rgba(20, 20, 20, 0.56);
+	--scrim-darkest: rgba(20, 20, 20, 0.88);
 }
